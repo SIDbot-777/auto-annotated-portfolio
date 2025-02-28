@@ -15,7 +15,7 @@ media:
   type: ImageBlock
   url: /images/Screenshot 2025-02-28 232642.png
   altText: RESUME
-  caption: SIMPLE AND SLEEK
+  caption: HOPE THIS WILL HELP YOU
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
