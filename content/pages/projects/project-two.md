@@ -7,7 +7,7 @@ client: MY RESUME DETAILS
 description: THIS WILL HELP YOU KNOW MORE
 featuredImage:
   type: ImageBlock
-  url: /images/SHRAIVAN.png
+  url: /images/RESUME.jpg
   altText: SAMPLE YOUTUBE LOGO
   caption: THIS LOGO EXPRESS A PERFECT COMBINATION OF COLOR GRADING AND ELEMENTS
   elementId: ''
