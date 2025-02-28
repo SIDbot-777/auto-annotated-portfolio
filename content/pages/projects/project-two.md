@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: LOGO DESIGNS
+title: RESUME
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
