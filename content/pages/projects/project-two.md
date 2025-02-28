@@ -13,7 +13,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Blue Gaming Channel YouTube Channel Art.png
   altText: Project image
 backgroundImage:
   type: BackgroundImage
