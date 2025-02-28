@@ -4,7 +4,7 @@ title: LOGO DESIGNS
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: Logo Designs
+description: "Your logo is the face of your brand—it represents your identity, values, and vision. At Jivesh Dahiya Designs, I create modern, memorable, and meaningful logos that leave a lasting impression.\U0001F539 Custom & Unique Designs – No templates, only original creativity.\U0001F539 Minimalist & Eye-Catching – Clean, professional, and impactful.\U0001F539 Versatile & Scalable – Perfect for websites, social media, and print.\U0001F539 Brand-Focused – Designs that truly represent your business.Whether you're a startup, personal brand, or corporate business, I bring your vision to life with a powerful and professional logo that stands out."
 featuredImage:
   type: ImageBlock
   url: /images/SHRAIVAN.png
