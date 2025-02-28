@@ -9,7 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/SHRAIVAN.png
   altText: SAMPLE YOUTUBE LOGO
-  caption: Caption of the image
+  caption: THIS LOGO EXPRESS A PERFECT COMBINATION OF COLOR GRADING AND ELEMENTS
   elementId: ''
 media:
   type: ImageBlock
