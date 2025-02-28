@@ -8,7 +8,7 @@ description: Logo Designs
 featuredImage:
   type: ImageBlock
   url: /images/SHRAIVAN.png
-  altText: altText of the image
+  altText: SAMPLE YOUTUBE LOGO
   caption: Caption of the image
   elementId: ''
 media:
