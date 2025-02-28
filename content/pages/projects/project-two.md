@@ -9,7 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/RESUME.jpg
   altText: SAMPLE YOUTUBE LOGO
-  caption: THIS LOGO EXPRESS A PERFECT COMBINATION OF COLOR GRADING AND ELEMENTS
+  caption: ''
   elementId: ''
 media:
   type: ImageBlock
