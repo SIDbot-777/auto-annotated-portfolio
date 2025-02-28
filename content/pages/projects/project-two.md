@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Blue Gaming Channel YouTube Channel Art.png
-  altText: Project image
+  altText: 'SAMPLE #1'
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
