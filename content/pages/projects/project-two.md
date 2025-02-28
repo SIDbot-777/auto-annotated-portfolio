@@ -13,7 +13,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Blue Gaming Channel YouTube Channel Art.png
+  url: /images/Screenshot 2025-02-28 232642.png
   altText: 'SAMPLE #1'
   caption: SIMPLE AND SLEEK
 backgroundImage:
