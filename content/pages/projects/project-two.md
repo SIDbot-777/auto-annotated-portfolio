@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Screenshot 2025-02-28 232642.png
-  altText: 'SAMPLE #1'
+  altText: RESUME
   caption: SIMPLE AND SLEEK
 backgroundImage:
   type: BackgroundImage
