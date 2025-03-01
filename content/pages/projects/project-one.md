@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/6783643.png
   altText: Service Offered
   caption: We can assist you with the following.
 media:
