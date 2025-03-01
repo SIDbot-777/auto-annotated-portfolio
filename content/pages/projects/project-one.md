@@ -4,7 +4,9 @@ title: SERVICE OFFERED
 colors: colors-a
 date: '2021-10-15'
 client: WE CAN ASSIST WITH FOLLOWING
-description: SELECT THE SERVICE AND MAIL ME WITH WORK.
+description: >-
+  SELECT THE SERVICE AND MAIL ME WITH WORK AND TOU WILL GET REPLY WITHIN 15
+  MINUTES.                                        ENJOY THE RESEARCH-
 featuredImage:
   type: ImageBlock
   url: /images/6783643.png
