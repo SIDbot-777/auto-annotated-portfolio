@@ -10,7 +10,7 @@ description: >-
   journey
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/gallery-1.jpg
   altText: Project image
 featuredImage:
   type: ImageBlock
