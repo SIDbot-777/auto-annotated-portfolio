@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     title: 'Jivesh Dahiya | Digital Creator, Designer & Entrepreneur'
     subtitle: "I am a multi-skilled digital creator with expertise in graphic design, video editing, SEO, and social media management. A national-level karate champion, state-level chess player, and academic topper, I bring the same dedication and discipline to my creative work.Passionate about building brands, optimizing digital presence, and creating impactful designs, I aim to grow businesses through innovative content strategies. With a strong technical background in cybersecurity, branding, and project management, I am continuously evolving and pushing boundaries.Currently, I am on a journey to establish my own brand, YouTube channel, and freelancing business, with the ultimate goal of achieving financial freedom and making my mother proud. \U0001F680Let’s connect and build something extraordinary! \U0001F4A1"
