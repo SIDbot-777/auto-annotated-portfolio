@@ -81,7 +81,7 @@
             "phoneAltText": "My phone number",
             "email": "shraivantube@gmail.com",
             "emailAltText": "My email",
-            "address": "Rohtak,Haryana",
+            "address": "Rohtak, Haryana",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
