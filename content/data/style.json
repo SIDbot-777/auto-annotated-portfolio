@@ -4,7 +4,7 @@
     "onLight": "#050806",
     "dark": "#000000",
     "onDark": "#FBFFF2",
-    "primary": "#0804F6",
+    "primary": "#b7b7d2",
     "onPrimary": "#FBFFF2",
     "secondary": "#FE491F",
     "onSecondary": "#050806",
@@ -54,8 +54,8 @@
         "letterSpacing": "normal"
     },
     "buttonPrimary": {
-        "weight": "normal",
-        "case": "none",
+        "weight": "medium",
+        "case": "capitalize",
         "letterSpacing": "normal",
         "horizontalPadding": 20,
         "verticalPadding": 15
