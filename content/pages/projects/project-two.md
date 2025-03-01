@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: RESUME
 colors: colors-a
-date: '2025-02-20'
+date: '2025-03-02'
 client: MY RESUME DETAILS
 description: THIS WILL HELP YOU KNOW MORE
 featuredImage:
