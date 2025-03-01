@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
   altText: Service Offered
+  caption: We can assist you with the following.
 media:
   type: ImageBlock
   url: /images/bg1.jpg
