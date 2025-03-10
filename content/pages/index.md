@@ -155,6 +155,14 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /htttp
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     posts: []
     showDate: true
     showExcerpt: true
