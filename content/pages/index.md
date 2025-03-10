@@ -156,7 +156,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: Certifications
         altText: Certifications
         url: /htttp
         showIcon: false
