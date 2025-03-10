@@ -17,8 +17,6 @@ media:
 ---
 Shraivan Digitals is a **full-service Digital Marketing & Creative Agency** that specializes in branding, design, marketing, and cybersecurity solutions. Our expertise ensures businesses and individuals get **high-quality, innovative, and result-driven services**.
 
-
-
 ### **🔹 Branding & Design**
 
 *   Logo Design & Brand Identity
@@ -30,8 +28,6 @@ Shraivan Digitals is a **full-service Digital Marketing & Creative Agency** that
 *   Poster & Flyer Design
 
 *   Brochure & Catalog Design
-
-*   UI/UX Design
 
 ### **🎥 Video & Motion Graphics**
 
@@ -61,23 +57,15 @@ Shraivan Digitals is a **full-service Digital Marketing & Creative Agency** that
 
 ### **🔐 Cybersecurity & Tech Solutions**
 
-*   Website Security Audits
+*   Website Security Strategy
 
 *   Cyber Awareness & Training
-
-*   Ethical Hacking & Penetration Testing
 
 *   Social Media & Account Security
 
 *   Data Privacy Consultation
 
 ### **💻 Web & Software Solutions**
-
-*   Website Development (HTML, WordPress)
-
-*   E-Commerce Website Setup
-
-*   Basic Python & Automation Services
 
 *   Tech Consultation & Troubleshooting
 
@@ -90,6 +78,4 @@ Shraivan Digitals is a **full-service Digital Marketing & Creative Agency** that
 *   Creative Writing (Poetry & Quotes)
 
 *   Educational Content & E-Books
-
-
 
