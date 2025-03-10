@@ -4,7 +4,7 @@ title: SERVICE OFFERED
 colors: colors-a
 date: '2021-10-15'
 client: WE CAN ASSIST WITH FOLLOWING
-description: '             '
+description: WE CAN ASSIST WITH FOLLOWING
 featuredImage:
   type: ImageBlock
   url: /images/6783643.png
