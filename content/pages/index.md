@@ -114,7 +114,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Join us for FREE1
+        label: Join us for FREE!
         altText: ''
         url: /Join us
         showIcon: false
