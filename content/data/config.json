@@ -49,50 +49,5 @@
             "caption": "Caption of the image",
             "elementId": ""
         }
-    },
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:shraivantube@gmail.com",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            }
-        ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "8930536252",
-            "phoneAltText": "My phone number",
-            "email": "shraivantube@gmail.com",
-            "emailAltText": "My email",
-            "address": "Rohtak, Haryana, India",
-            "addressAltText": "My address"
-        },
-        "copyrightText": "Created By Shraivan Digitals\n\nPowered by [Netlify](https://www.netlify.com/)\n",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
-            }
-        }
     }
 }
