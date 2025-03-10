@@ -105,7 +105,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Thumbnails Designs
         altText: ''
         url: /Thumbnail Designs
         showIcon: false
