@@ -96,21 +96,21 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Banner Samples
-        altText: ''
-        url: /Banner Samples
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
         label: Thumbnails Designs
         altText: ''
         url: /Thumbnail Designs
         showIcon: false
         icon: arrowRight
         iconPosition: left
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Banner Samples
+        altText: ''
+        url: /Banner Samples
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
         style: primary
         elementId: ''
       - type: Button
