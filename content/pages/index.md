@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: 'Jivesh Dahiya | Digital Creator, Designer & Entrepreneur'
+    title: SHRAIVAN DIGITALS
     subtitle: ''
     styles:
       self:
