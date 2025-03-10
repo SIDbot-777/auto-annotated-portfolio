@@ -37,7 +37,7 @@
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "wide"
     },
     "h5": {
         "size": "xl",
