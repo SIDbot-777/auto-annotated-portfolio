@@ -82,7 +82,7 @@ sections:
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-b
-    variant: variant-d
+    variant: variant-b
     subtitle: Work Samples
     showFeaturedImage: false
     actions:
