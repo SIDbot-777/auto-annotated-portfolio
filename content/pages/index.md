@@ -14,7 +14,7 @@ sections:
     colors: colors-b
     backgroundSize: full
     title: SHRAIVAN DIGITALS
-    subtitle: Founder-Mr.Jivesh Dahiya
+    subtitle: Founder-Mr. Jivesh Dahiya
     styles:
       self:
         height: auto
