@@ -117,7 +117,7 @@ sections:
         label: Join us for FREE!
         altText: ''
         url: /Join us
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: left
         style: primary
