@@ -90,7 +90,7 @@ sections:
         label: Logo Samples
         altText: ''
         url: /Logo Samples
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
