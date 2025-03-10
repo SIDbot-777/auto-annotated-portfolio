@@ -64,7 +64,7 @@ sections:
     subtitle: 'Skills I have :'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Social Media Marketing
         url: ''
       - type: Label
         label: React
