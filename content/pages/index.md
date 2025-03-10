@@ -70,7 +70,7 @@ sections:
         label: Graphic Designing
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Video Editing
         url: ''
       - type: Label
         label: Next.js
