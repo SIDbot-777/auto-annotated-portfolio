@@ -30,7 +30,7 @@
             {
                 "type": "Social",
                 "label": "Linked In",
-                "altText": "",
+                "altText": "Linked In",
                 "url": "/https://www.linkedin.com/in/jivesh-dahiya-40bba7353/",
                 "icon": "linkedin",
                 "elementId": ""
