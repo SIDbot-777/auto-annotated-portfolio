@@ -155,6 +155,15 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /https
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     posts: []
     showDate: true
     showExcerpt: true
