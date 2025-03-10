@@ -85,7 +85,16 @@ sections:
     variant: variant-d
     subtitle: Work Samples
     showFeaturedImage: false
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /Logo Samles
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
