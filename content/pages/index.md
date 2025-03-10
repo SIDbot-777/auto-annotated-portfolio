@@ -95,8 +95,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    posts:
-      - content/pages/blog/post-three.md
+    posts: []
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
