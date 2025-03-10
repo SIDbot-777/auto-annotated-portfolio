@@ -85,7 +85,7 @@ sections:
         label: Advanced Computer Skills
         url: ''
       - type: Label
-        label: Swift
+        label: Digital Marketing
         url: ''
     colors: colors-d
     elementId: ''
