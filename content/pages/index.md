@@ -155,14 +155,6 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
-      - type: Link
-        label: Certifications
-        altText: Certifications
-        url: /htttp
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
     posts: []
     showDate: true
     showExcerpt: true
