@@ -108,7 +108,8 @@ sections:
       - type: Button
         label: Banner Samples
         altText: ''
-        url: /Banner Samples
+        url: >-
+          https://drive.google.com/drive/folders/1HGwHb3TjCDQIJzUIWk8zJlHEDjqJoBzi?usp=drive_link
         showIcon: false
         icon: arrowRight
         iconPosition: left
