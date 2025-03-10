@@ -87,7 +87,7 @@ sections:
     showFeaturedImage: false
     actions:
       - type: Button
-        label: Learn more
+        label: Logo Samples
         altText: ''
         url: /Logo Samples
         showIcon: false
