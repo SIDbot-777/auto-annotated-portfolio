@@ -76,7 +76,7 @@ sections:
         label: You Tube Growth
         url: ''
       - type: Label
-        label: Netlify
+        label: SEO Professional
         url: ''
       - type: Label
         label: Pancakes
