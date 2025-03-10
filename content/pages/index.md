@@ -61,7 +61,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: 'Skills I have :'
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
