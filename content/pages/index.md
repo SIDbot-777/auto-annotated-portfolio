@@ -96,7 +96,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Banner Samples
         altText: ''
         url: /Banner Samples
         showIcon: false
