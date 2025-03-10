@@ -82,7 +82,7 @@ sections:
         label: Team Building
         url: ''
       - type: Label
-        label: C++
+        label: Advanced Computer Skills
         url: ''
       - type: Label
         label: Swift
