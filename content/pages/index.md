@@ -81,7 +81,7 @@ sections:
     subtitle: More Information..
   - type: FeaturedPostsSection
     elementId: ''
-    colors: colors-e
+    colors: colors-b
     variant: variant-d
     subtitle: Work Samples
     showFeaturedImage: false
