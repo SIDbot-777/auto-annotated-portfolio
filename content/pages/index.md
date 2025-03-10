@@ -79,7 +79,7 @@ sections:
         label: SEO Professional
         url: ''
       - type: Label
-        label: Pancakes
+        label: Team Building
         url: ''
       - type: Label
         label: C++
