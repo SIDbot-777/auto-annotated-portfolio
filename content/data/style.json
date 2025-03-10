@@ -47,7 +47,7 @@
         "letterSpacing": "wide"
     },
     "h6": {
-        "size": "6xl",
+        "size": "4xl",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
