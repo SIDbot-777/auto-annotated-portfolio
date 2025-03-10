@@ -45,7 +45,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: "###### **\U0001F680 Elevate Your Brand with Shraivan Digitals!**\n\n##### Welcome to **Shraivan Digitals**, where creativity meets strategy! We specialize in **stunning designs, high-converting digital marketing, and powerful brand storytelling** to help you **stand out, captivate your audience, and drive real results.**\n\n##### Whether you need **eye-catching logos, engaging social media content, compelling ad campaigns, or a full-scale brand transformation**, we’ve got you covered. Our expert team blends **innovation, strategy, and cutting-edge technology** to take your business to the next level.\n\n##### \U0001F525 Let’s build something extraordinary together! Contact us today and watch your brand thrive. \U0001F680\n\n"
+    text: "###### **\U0001F680 Elevate Your Brand with Shraivan Digitals!**\n\n###### Welcome to **Shraivan Digitals**, where creativity meets strategy! We specialize in **stunning designs, high-converting digital marketing, and powerful brand storytelling** to help you **stand out, captivate your audience, and drive real results.**\n\n###### Whether you need **eye-catching logos, engaging social media content, compelling ad campaigns, or a full-scale brand transformation**, we’ve got you covered. Our expert team blends **innovation, strategy, and cutting-edge technology** to take your business to the next level.\n\n###### \U0001F525 Let’s build something extraordinary together! Contact us today and watch your brand thrive. \U0001F680\n\n"
   - type: DividerSection
     title: Divider
     elementId: ''
