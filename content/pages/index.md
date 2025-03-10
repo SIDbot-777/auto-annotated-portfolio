@@ -159,7 +159,7 @@ sections:
         label: Certifications
         altText: Certifications
         url: /htttp
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
