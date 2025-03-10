@@ -8,10 +8,6 @@ description: >-
   Scroll down to see our set of goal in next 5
   Years.                                           I invite you to join in our
   journey
-media:
-  type: ImageBlock
-  url: /images/gallery-1.jpg
-  altText: Project image
 ---
 ## **Our Vision** 🌟
 
