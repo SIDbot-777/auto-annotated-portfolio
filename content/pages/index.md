@@ -157,7 +157,7 @@ sections:
         elementId: ''
       - type: Link
         label: Learn more
-        altText: Certificates
+        altText: Certifications
         url: /htttp
         showIcon: false
         icon: arrowRight
