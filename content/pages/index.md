@@ -173,7 +173,7 @@ sections:
           hideLabel: false
           placeholder: Your email
           width: 1/2
-          isRequired: 'true'
+          isRequired: true
         - type: TextareaFormControl
           name: message
           label: Tell me about your project
