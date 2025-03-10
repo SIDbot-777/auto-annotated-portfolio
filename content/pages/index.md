@@ -155,15 +155,6 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
-      - type: Button
-        label: Join us for FREE!
-        altText: ''
-        url: /Join us
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
     posts: []
     showDate: true
     showExcerpt: true
