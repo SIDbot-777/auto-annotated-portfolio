@@ -156,7 +156,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Cerifications
+        label: Certifications
         altText: ''
         url: /https
         showIcon: false
