@@ -12,12 +12,6 @@ media:
   type: ImageBlock
   url: /images/gallery-1.jpg
   altText: Project image
-featuredImage:
-  type: ImageBlock
-  url: /images/gallery-1.jpg
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 ---
 ## **Our Vision** 🌟
 
