@@ -89,7 +89,7 @@ sections:
       - type: Button
         label: Logo Samples
         altText: ''
-        url: /Logo Samples
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: left
