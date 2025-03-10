@@ -119,7 +119,7 @@ sections:
         url: /Join us
         showIcon: false
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     posts: []
