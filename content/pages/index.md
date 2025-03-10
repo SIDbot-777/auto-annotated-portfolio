@@ -89,7 +89,8 @@ sections:
       - type: Button
         label: Logo Samples
         altText: ''
-        url: ''
+        url: >-
+          https://drive.google.com/drive/folders/1NiOWIa7EtPf_mLzA2RHA2N0Oy6R5IEAI?usp=drive_link
         showIcon: true
         icon: arrowRight
         iconPosition: left
