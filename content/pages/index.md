@@ -45,7 +45,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: "###### **I am a versatile digital creator with skills in graphic design, video editing, SEO, and social media management. As a national karate champion, a state-level chess player, and an academic top performer, I apply the same dedication and discipline to my creative endeavors. I am passionate about building brands, enhancing digital presence, and crafting impactful designs, with the goal of helping businesses thrive through innovative content strategies. With a solid technical background in cybersecurity, branding, and project management, I am committed to continuous growth and pushing boundaries. Currently, I am on a journey to establish my own brand, YouTube channel, and freelancing business, ultimately aiming for financial freedom and to make my mother proud. \U0001F680 Let’s connect and create something extraordinary! \U0001F4A1**\n\n"
+    text: "**\U0001F680 Elevate Your Brand with Shraivan Digitals!**\n\nWelcome to **Shraivan Digitals**, where creativity meets strategy! We specialize in **stunning designs, high-converting digital marketing, and powerful brand storytelling** to help you **stand out, captivate your audience, and drive real results.**\n\nWhether you need **eye-catching logos, engaging social media content, compelling ad campaigns, or a full-scale brand transformation**, we’ve got you covered. Our expert team blends **innovation, strategy, and cutting-edge technology** to take your business to the next level.\n\n\U0001F525 Let’s build something extraordinary together! Contact us today and watch your brand thrive. \U0001F680\n\n\n\n\n\n"
   - type: DividerSection
     title: Divider
     elementId: ''
