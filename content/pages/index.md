@@ -67,7 +67,7 @@ sections:
         label: Social Media Marketing
         url: ''
       - type: Label
-        label: React
+        label: Graphic Designing
         url: ''
       - type: Label
         label: Microsoft Office
