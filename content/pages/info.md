@@ -207,8 +207,6 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Social Media Management
-      - type: Label
         label: React
       - type: Label
         label: Microsoft Office
