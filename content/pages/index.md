@@ -193,6 +193,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Work Samples
   - type: DividerSection
     title: Divider
     elementId: ''
