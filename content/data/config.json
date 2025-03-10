@@ -22,13 +22,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Linked In",
-                "label": "Linked In",
-                "url": "https://www.linkedin.com/in/jivesh-dahiya-40bba7353/",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "label": "Linked In",
                 "altText": "Linked In",
                 "url": "/https://www.linkedin.com/in/jivesh-dahiya-40bba7353/",
