@@ -58,6 +58,7 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 4
+        borderStyle: solid
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-b
