@@ -73,7 +73,7 @@ sections:
         label: Video Editing
         url: ''
       - type: Label
-        label: Next.js
+        label: You Tube Growth
         url: ''
       - type: Label
         label: Netlify
