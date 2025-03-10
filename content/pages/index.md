@@ -104,6 +104,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /Thumbnail Designs
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     posts: []
     showDate: true
     showExcerpt: true
