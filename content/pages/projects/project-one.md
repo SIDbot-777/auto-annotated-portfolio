@@ -10,10 +10,6 @@ featuredImage:
   url: /images/6783643.png
   altText: Service Offered
   caption: We can assist you with the following.
-media:
-  type: ImageBlock
-  url: /images/OIP (1).jpg
-  altText: Project image
 ---
 Shraivan Digitals is a **full-service Digital Marketing & Creative Agency** that specializes in branding, design, marketing, and cybersecurity solutions. Our expertise ensures businesses and individuals get **high-quality, innovative, and result-driven services**.
 
