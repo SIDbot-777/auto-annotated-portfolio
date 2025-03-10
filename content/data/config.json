@@ -27,6 +27,14 @@
                 "url": "/https://www.linkedin.com/in/jivesh-dahiya-40bba7353/",
                 "icon": "linkedin",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.instagram.com/shraivan_tube",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
