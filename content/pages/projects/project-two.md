@@ -18,7 +18,6 @@ media:
   caption: HOPE THIS WILL HELP YOU
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
