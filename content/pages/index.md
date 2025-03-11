@@ -152,7 +152,7 @@ sections:
         altText: ''
         url: >-
           https://drive.google.com/drive/folders/1HGwHb3TjCDQIJzUIWk8zJlHEDjqJoBzi?usp=drive_link
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: left
         style: primary
