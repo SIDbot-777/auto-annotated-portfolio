@@ -140,7 +140,8 @@ sections:
       - type: Button
         label: Thumbnails Designs
         altText: ''
-        url: /Thumbnail Designs
+        url: >-
+          https://drive.google.com/drive/folders/1NQzP7szD4mODCAhjZ7QPUhx0BKwiJ4SH?usp=drive_link
         showIcon: false
         icon: arrowRight
         iconPosition: left
