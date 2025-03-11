@@ -8,6 +8,12 @@ description: >-
   Scroll down to see our set of goal in next 5
   Years.                                           I invite you to join in our
   journey
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 ## **Our Vision** 🌟
 
