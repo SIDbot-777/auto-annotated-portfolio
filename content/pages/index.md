@@ -160,7 +160,8 @@ sections:
       - type: Button
         label: Certifications
         altText: ''
-        url: /https
+        url: >-
+          https://drive.google.com/drive/folders/1tjRZoe6akOxr1rXwqatOUNBZwR7VPLdO?usp=drive_link
         showIcon: false
         icon: arrowRight
         iconPosition: right
