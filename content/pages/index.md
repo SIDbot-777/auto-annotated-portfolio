@@ -140,8 +140,9 @@ sections:
       - type: Button
         label: Thumbnails Designs
         altText: ''
-        url: /Thumbnail Designs
-        showIcon: false
+        url: >-
+          https://drive.google.com/drive/folders/1NQzP7szD4mODCAhjZ7QPUhx0BKwiJ4SH?usp=drive_link
+        showIcon: true
         icon: arrowRight
         iconPosition: left
         style: primary
@@ -151,7 +152,7 @@ sections:
         altText: ''
         url: >-
           https://drive.google.com/drive/folders/1HGwHb3TjCDQIJzUIWk8zJlHEDjqJoBzi?usp=drive_link
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: left
         style: primary
@@ -220,6 +221,7 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/project-three.md
     styles:
       self:
         height: auto
